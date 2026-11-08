@@ -1,6 +1,6 @@
 # Broadcast
 
-[![CI](https://github.com/itspaulin/broadcast/actions/workflows/ci.yml/badge.svg)](https://github.com/itspaulin/broadcast/actions/workflows/ci.yml)
+[![CI](https://github.com/paulobarbosa-dev/broadcast/actions/workflows/ci.yml/badge.svg)](https://github.com/paulobarbosa-dev/broadcast/actions/workflows/ci.yml)
 
 Aplicação SaaS multi-tenant de Broadcast (teste prático — Desenvolvedor Full Stack).
 Cada usuário cadastrado é um cliente, com suas próprias conexões, contatos e mensagens.
